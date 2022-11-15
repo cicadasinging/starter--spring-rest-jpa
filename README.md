@@ -4,6 +4,12 @@
 
 ### [Spring Initializr](https://start.spring.io/)
 
+### Spring Guides
+
+[Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+
+[Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)
+
 ### Git
 
 Terminal:
